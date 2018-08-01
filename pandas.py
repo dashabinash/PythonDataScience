@@ -4,11 +4,6 @@ Created on Tue Jul 31 23:43:22 2018
 
 @author: Abinash Dash
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 30 23:59:47 2018
-@author: Abinash Dash
-"""
 
 #Pandas is an open source library built on top of numpy
 #It allows for fast analysis, data cleaning and preparation
